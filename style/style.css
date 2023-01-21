@@ -1,0 +1,18 @@
+body {
+
+	margin: 0px;
+}
+.bg {
+     background-color:yellow ;
+     height: 70px;
+}
+.g {
+	display: inline-block;
+	padding:5px ;
+	color:white ;
+	font-size: 20px;
+	position: relative;
+	top: 4px;
+	
+
+}
